@@ -1,2 +1,0 @@
-# ExPython
-Exercício python Diego
